@@ -1,0 +1,52 @@
+#EXTM3U
+
+
+##########################Televisi##########################
+
+#EXTINF:-1 ch-number="1" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist.m3u8
+
+#EXTINF:-1 ch-number="2" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
+#EXTINF:-1 ch-number="3" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+
+
+#EXTINF:-1 ch-number="4" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h0235/01.m3u8
+
+#EXTINF:-1 ch-number="5" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+
+
+#EXTINF:-1 ch-number="6" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h0217/01.m3u8
+
+#EXTINF:-1 ch-number="7" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+
+#EXTINF:-1 ch-number="8" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
+#EXTINF:-1 ch-number="9" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+
+
+#EXTINF:-1 ch-number="10" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/02.m3u8
+
+#EXTINF:-1 ch-number="11" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/S1/mnf.m3u8
+
+#EXTINF:-1 ch-number="12" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.3; GT-I9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/0.16.4301.233 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
